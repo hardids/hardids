@@ -1,6 +1,3 @@
-### Contacts
-<a href="https://www.instagram.com/hard_ids/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-
 ## Tech Stack
 
 #### Handled Vendors list
